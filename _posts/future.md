@@ -5,9 +5,14 @@ Date: "03-03-2020"
 ---
 Ponny
 
-# Testing
-dslkfaj ;ldks fj;dkja ;dlafkdtygaofuj dqfijwe flkja d;yfkopkdeqjf lkad pfoiuadfklj;lqyker;
-fdkasjf podsfj ;lqkewr;fkjhad;f lkdjspfyhoqekfj;jdf;  dlkdjfhdlkfjh adslfkjhdaf\dfkl djashf
-dakdsh ;fjdfkahdkajfydpaofihju q;kehfadf
-a;dfkljd;asyfdpoasfu
+##future
+My days here at TCG are great, i am able to leran so many things ,its a little challenging but 
+nothing comes easy i have to work work hard to reach the goal.
+TCG helps a lot because we are able to create things that my change someones and change the 
+future for the better .Coding is interesting ,fun and challenging .
+The coding ground changes many peoples lives.
 
+TCG reqires hard work ,passion and dertimination and a empty mindset ,because a teacher once said and 
+i qoute if you want to know something you have to clear your
+mind and learn don't get in the room and act like you know because you wont grab a thing.
+So TCG is fun and i enjoy waking up in the morning and coming to TCG.  
