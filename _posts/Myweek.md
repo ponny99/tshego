@@ -3,7 +3,7 @@ Layout: post
 Title: My week
 Date: 2020-03-13
 ---
-# What i learned the week at TCG
+# What i learned during the week at TCG
 
 ## Monday ,Tuesday, 
 On this day we were introduced and taught on how to to open a a folder and a file .And we were also taught how add 
